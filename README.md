@@ -1,2 +1,2 @@
 # MultiThread
-### Projects following Udemy Multithreading and Parallel Computing in Java class
+Projects following Udemy Multithreading and Parallel Computing in Java class
